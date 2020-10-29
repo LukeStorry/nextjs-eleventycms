@@ -3,13 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  {
-    "scripts": {
-      "dev": "next",
-      "build": "next build",
-      "start": "next start",
-      "export": "npm run build && next export"
-    }
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "npm run build && next export"
   },
   "keywords": [],
   "author": "",
